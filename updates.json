@@ -2,7 +2,7 @@
   "addons": {
     "mediagrabber@pestly.local": {
       "updates": [
-        { "version": "0.1.8256", "update_link": "https://github.com/AbdullahPesteli/mediagrabber-dist/releases/download/v0.1.8256/mediagrabber.xpi" }
+        { "version": "0.1.8257", "update_link": "https://github.com/AbdullahPesteli/mediagrabber-dist/releases/download/v0.1.8257/mediagrabber.xpi" }
       ]
     }
   }
